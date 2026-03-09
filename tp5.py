@@ -9,7 +9,7 @@ import arcade.draw.circle
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-WINDOW_TITLE = "Tutoriel Arcade"
+WINDOW_TITLE = "PAYSAGE"
 
 
 def sol():
